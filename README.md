@@ -1,1 +1,1 @@
-# THeme
+# WordPress THeme Development
