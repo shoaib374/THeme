@@ -1,1 +1,1 @@
-# WordPress THeme Development
+#WordPress Theme: Aquilla
